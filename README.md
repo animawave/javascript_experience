@@ -1,5 +1,5 @@
 # project😀
-my first project in javascript
+####here is a practical experience with learning the javascript language
 
 
 issues вопросы
